@@ -1,6 +1,6 @@
 body {
-    background-color: darkslategrey;
-    color: yellow;
+    background-color: lavender;
+    color: blue;
     font-size: 1.1em;
     }
     h1 {
@@ -10,5 +10,5 @@ body {
             font-size: 1.3em;
         }
         .colorful {
-            color: orange;
+            color: red;
         }
